@@ -1,2 +1,2 @@
 # PHP-FormularioAutentificacionValidated
-Formulario de Autentificación Simple con PHP y HTML, donde el PHP te devuelve los valores del Formulario. Created by Endika, Student of ASIR.
+Formulario de Autentificación Simple con PHP y HTML, donde el PHP comprueba si el usuario y contraseña es correcto o no, dandote paso o no. Created by Endika, Student of ASIR.
